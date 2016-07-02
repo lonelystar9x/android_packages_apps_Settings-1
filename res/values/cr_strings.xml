@@ -42,4 +42,7 @@
     <!-- IME button space -->
     <string name="navigation_bar_ime_space_title">Hide IME button space</string>
     <string name="navigation_bar_ime_space_summary">Hide IME button space below keyboard</string>
+
+    <!-- App details: open play store link if app is user installed -->
+    <string name="app_play_store">Google Play</string>
 </resources>
