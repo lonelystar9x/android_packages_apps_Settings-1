@@ -110,10 +110,10 @@
         android:summary="@string/notification_battery_charge_level_summary"
         android:fragment="com.android.settings.fuelgauge.BatteryChargeSoundSettings" />
 
-    <SwitchPreference
+    <Preference
         android:key="fast_charging"
         android:title="@string/fast_charging_title"
-        android:summary="@string/fast_charging_summary"
+        android:fragment="com.android.settings.fuelgauge.fastcharge.FastChargingSettings"
         settings:controller="com.android.settings.fuelgauge.FastChargingPreferenceController"/>
 
     <com.android.settings.fuelgauge.batteryusage.PowerGaugePreference

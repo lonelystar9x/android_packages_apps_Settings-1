@@ -108,4 +108,6 @@
     <!-- Lockscreen timeout -->
     <string name="lockscreen_timeout_title">Lockscreen timeout</string>
 
+    <!-- Fastcharge -->
+    <string name="restricted_current_summary">Set max allowed current (mA)</string>
 </resources>
