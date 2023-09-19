@@ -93,6 +93,13 @@
     <string name="doze_double_tap_title">Double tap to check phone</string>
     <string name="doze_double_tap_summary">Pulse notifications by a double tap</string>
 
+    <!-- Generic support strings -->
+    <string name="string_enabled">Enabled</string>
+    <string name="string_disabled">Disabled</string>
+    <string name="string_on">On</string>
+    <string name="string_off">Off</string>
+
     <!-- Fastcharge -->
     <string name="restricted_current_summary">Set max allowed current (mA)</string>
+    <string name="fastcharge_disabled_extended_summary">Charge limited to: <xliff:g id="current" example="3000 mA">%1$s</xliff:g>.</string>
 </resources>
