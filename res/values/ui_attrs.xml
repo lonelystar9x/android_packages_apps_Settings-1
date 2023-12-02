@@ -3,4 +3,11 @@
     <declare-styleable name="AdaptivePreference">
         <attr name="position" format="string" />
     </declare-styleable>
+
+    <declare-styleable name="SystemPreference">
+        <attr name="restart_level" format="string" />
+        <attr name="settings_type" format="string" />
+        <attr name="minValue" format="integer" />
+        <attr name="reevaluate" format="boolean" />
+    </declare-styleable>
 </resources>
